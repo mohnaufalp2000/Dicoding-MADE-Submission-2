@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="image_news_content">image news content</string>
+    <string name="favorite_button_content">favorite button</string>
+    <string name="no_items_favorite_content">No Items Favorite</string>
+</resources>

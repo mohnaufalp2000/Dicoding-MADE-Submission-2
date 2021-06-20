@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Techmedia</string>>
+    <string name="favorite">Favorite</string>
+    <string name="image_news_content">image news content</string>
+    <string name="connection_error_content">Connection Error</string>
+    <string name="title_favorite">favorite</string>
+</resources>
